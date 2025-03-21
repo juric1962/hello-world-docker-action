@@ -19,5 +19,5 @@ runs:
   args:
     - ${{ inputs.who-to-greet }}
     - ${{ inputs.my_name }}
-  run: ls -la
+  
     
